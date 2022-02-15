@@ -1,4 +1,5 @@
 # Raytracer
+<img src="resources/image.png"/>
 
 ## Quick start
 
